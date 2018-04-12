@@ -1,0 +1,113 @@
+body{
+
+	background-color: #a58ebb;
+  	color: white;
+	min-height: 500px;
+}
+
+.container {
+   
+}
+
+.login {
+    min-width: 300px;
+	background-color: #5f3f80;
+    _border: 1px solid red;
+    display: table;
+    margin: 120px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 4px -4px 0px rgba(39, 37, 37, 0.73), 
+    -5px -6px 2px rgba(0, 0, 0, 0.5), 
+    0px 0px 2px rgba(0, 0, 0, 0.5);
+
+	
+}
+
+.login label{
+    _display: inline;
+}
+
+
+.form-group{
+
+}
+
+.form-group h4{
+    color: #7ed321;
+   
+}
+
+.form-group input[type="radio"] {
+    display: inline;
+    margin: 5px;
+}
+
+.form-group input{
+	_margin: 0px;
+}
+
+.form-control {
+    display: block;
+    height: 50px;
+    min-width: 300px;
+    padding: 13px 15px;
+    font-size: 14px;
+    color: white;
+    background-color: #291e35;
+    border: 1px solid #0d6b42;
+    border-radius: 4px;
+   
+    
+}
+
+.form-group select{
+  color: black;
+}
+
+.btn{
+	margin: 0;
+    display: block;
+    padding: 13px 0;
+    min-width: 300px;
+    font-size: 13px;
+    font-weight: bold;
+    border: 0;
+    text-shadow: 0px 1px 0px rbga(255, 255, 255, 1);
+    background-color: #f6ba35;
+    _background-image: -webkit-linear-gradient(90deg, #eca418, #ffcd4e);
+    border-radius: 5px;
+    transition: background 0.3s ease-in-out;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.btn:hover{
+    background: #16aa56;
+}
+
+.center-text{
+	text-align: center;
+}
+
+.utilities{
+    min-width: 300px;
+}
+
+.utilities a {
+  color: #61e5ab;
+  text-decoration: none;
+  font-size: 12px;
+  text-shadow: -1px -1px 0 rgba(0, 0, 0, 0.4);
+}
+
+.utilities a:nth-child(2) {
+  display: block;
+  color: red;
+  float: right;
+  _width: auto;
+  _text-align: right;
+}
+
+.utilities a:hover {
+  color: white;
+}
