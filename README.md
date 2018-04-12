@@ -1,1 +1,1 @@
-# Web Project 1 (Food Delivary Site)
+# Web Project 1 (Simple Food Delivery Site)
